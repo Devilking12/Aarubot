@@ -71,8 +71,8 @@ GROUP_START_BTN = [
 
 ALIVE_BTN = [
     [
-        ib(text="UPDATES", url="https://t.me/Hydra_Updates"),
-        ib(text="SUPPORT", url="https://t.me/hydraXsupport"),
+        ib(text="UPDATES", url="https://t.me/Devil_support_network"),
+        ib(text="SUPPORT", url="https://t.me/Tabahi_chatting_group"),
     ],
     [
         ib(
@@ -83,7 +83,7 @@ ALIVE_BTN = [
 ]
 
 HELP_STRINGS = """
-🫧 *Yae-Miko* 🫧
+🫧 *㊥ ˹ᴍɪꜱꜱ ✘ ᴧᴧʀᴜ˼ ㊥,* 🫧
 
 ☉ *Here, you will find a list of all the available commands.*
 
