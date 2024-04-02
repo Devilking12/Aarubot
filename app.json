@@ -1,9 +1,9 @@
 {
-   "name": "Yae Miko",
+   "name": "㊥ ˹ᴍɪꜱꜱ ✘ ᴧᴧʀᴜ˼ ㊥,",
    "description": "A versatile Telegram Group Management Bot.",
    "logo": "https://telegra.ph/file/4d370b478d90d98709398.jpg",
-   "keywords": ["telegram", "modular", "group", "management", "Miko"],
-   "repository": "https://github.com/Infamous-Hydra/YaeMiko",
+   "keywords": ["telegram", "modular", "group", "management", "Aaru"],
+   "repository": "https://github.com/Devilking12/Aarubot",
    "stack": "heroku-22",
    "addons": [
       {
